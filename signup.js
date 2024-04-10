@@ -54,6 +54,9 @@
 
         // Reset the form
         form.reset();
+
+        window.location.href= "index1.html";
+
       })
       .catch((error) => {
         console.error('Error creating user:', error);

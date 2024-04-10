@@ -24,6 +24,19 @@ h1 {
   text-align: center;
 }
 
+#google-signin-btn {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#google-signin-btn:hover {
+  background-color: #45a049;
+}
+
 form {
   display: flex;
   flex-direction: column;

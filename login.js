@@ -1,8 +1,4 @@
 
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js";
-import { getDatabase, set, ref } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
-import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-auth.js";
-import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-auth.js";
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
@@ -14,6 +10,8 @@ import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/fir
     messagingSenderId: "952973734444",
     appId: "1:952973734444:web:733dc344b92b6ce0865789"
   };
+
+
 
 firebase.initializeApp(firebaseConfig);
 
@@ -32,22 +30,36 @@ form.addEventListener('submit', (event) => {
 
   // Sign in the user with Firebase Authentication
   firebase.auth().signInWithEmailAndPassword(email, password)
-    .then((userCredential) => {
-      // User is signed in
-      const user = userCredential.user;
-      console.log('User logged in:', user);
+    .then((result) => {
+         // The signed-in user info
+         const user = result.user;
+         console.log('User signed in:', user);
+   
+         // Redirect the user to the home page
+         window.location.href= "index1.html";
+       })
+       .catch((error) => {
+         console.error('Error signing in:', error);
+       });
+   });
 
-        //   enable alert
-  document.querySelector(".alert").style.display = "block";
+// Get the Google Sign-In button
+const googleSignInBtn = document.getElementById('google-signin-btn');
 
-  //   remove the alert
-  setTimeout(() => {
-    document.querySelector(".alert").style.display = "none";
-  }, 3000);
+// Add a click event listener to the Google Sign-In button
+googleSignInBtn.addEventListener('click', () => {
+  // Create a Google Sign-In provider
+  const provider = new firebase.auth.GoogleAuthProvider();
 
+  // Sign in with the Google Sign-In provider
+  firebase.auth().signInWithPopup(provider)
+    .then((result) => {
+      // The signed-in user info
+      const user = result.user;
+      console.log('User signed in:', user);
 
-      // Reset the form
-      form.reset();
+      // Redirect the user to the home page
+      window.location.href= "index1.html";
     })
     .catch((error) => {
       console.error('Error signing in:', error);
