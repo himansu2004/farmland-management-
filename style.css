@@ -1,0 +1,1994 @@
+.krishi-bazzar {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.krishi-bazzar .div {
+  background-color: #ffffff;
+  overflow-x: hidden;
+  width: 1465px;
+  height: 5490px;
+  position: relative;
+}
+
+.krishi-bazzar .overlap {
+  position: absolute;
+  width: 1465px;
+  height: 735px;
+  top: 8px;
+  left: 0;
+}
+
+.krishi-bazzar .section {
+  position: absolute;
+  width: 1465px;
+  height: 678px;
+  top: 57px;
+  left: 0;
+  background-image: url(./img/section.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .div-2 {
+  position: absolute;
+  width: 1465px;
+  height: 678px;
+  top: 0;
+  left: 0;
+}
+
+.krishi-bazzar .region-slider {
+  position: absolute;
+  width: 1465px;
+  height: 678px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.krishi-bazzar .picture {
+  width: 1519px;
+  height: 678px;
+  background-image: url(./img/bannerbg-1-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .div-ss-layer-col {
+  position: absolute;
+  width: 500px;
+  height: 678px;
+  top: 0;
+  left: 144px;
+}
+
+.krishi-bazzar .link {
+  position: absolute;
+  width: 162px;
+  height: 30px;
+  top: 206px;
+  left: 0;
+  background-color: #ffffff33;
+  border-radius: 99px;
+}
+
+.krishi-bazzar .text-wrapper {
+  position: absolute;
+  width: 126px;
+  height: 18px;
+  top: 5px;
+  left: 18px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 2px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .heading {
+  position: absolute;
+  width: 441px;
+  height: 178px;
+  top: 241px;
+  left: 0;
+}
+
+.krishi-bazzar .p {
+  position: absolute;
+  width: 542px;
+  height: 108px;
+  top: 43px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 800;
+  color: #00a550;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+}
+
+.krishi-bazzar .find-out-more-wrapper {
+  position: absolute;
+  width: 182px;
+  height: 52px;
+  top: 420px;
+  left: 0;
+  background-color: #f7931d;
+  border-radius: 35px 0px 35px 0px;
+}
+
+.krishi-bazzar .find-out-more {
+  position: absolute;
+  width: 123px;
+  height: 22px;
+  top: 14px;
+  left: 30px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  line-height: 22.5px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .div-ss-item-image {
+  position: absolute;
+  width: 622px;
+  height: 678px;
+  top: 0;
+  left: 698px;
+}
+
+.krishi-bazzar .png {
+  position: relative;
+  width: 529px;
+  height: 678px;
+  left: 47px;
+  background-image: url(./img/banner2-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .region-slider-button {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 323px;
+  left: 5px;
+}
+
+.krishi-bazzar .region-slider-button-2 {
+  position: absolute;
+  width: 41px;
+  height: 13px;
+  top: 656px;
+  left: 670px;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #ffffffcc;
+  transform: rotate(180deg);
+}
+
+.krishi-bazzar .region-slider-button-3 {
+  left: 691px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 41px;
+  height: 13px;
+  top: 656px;
+  border-radius: 50px;
+  border: 1px solid;
+  transform: rotate(180deg);
+}
+
+.krishi-bazzar .region-slider-button-4 {
+  left: 712px;
+  border-color: #ffffffcc;
+  position: absolute;
+  width: 41px;
+  height: 13px;
+  top: 656px;
+  border-radius: 50px;
+  border: 1px solid;
+  transform: rotate(180deg);
+}
+
+.krishi-bazzar .region-slider-button-5 {
+  left: 733px;
+  border-color: #ffffffcc;
+  position: absolute;
+  width: 41px;
+  height: 13px;
+  top: 656px;
+  border-radius: 50px;
+  border: 1px solid;
+  transform: rotate(180deg);
+}
+
+.krishi-bazzar .region-slider-button-6 {
+  left: 754px;
+  border-color: #ffffffcc;
+  position: absolute;
+  width: 41px;
+  height: 13px;
+  top: 656px;
+  border-radius: 50px;
+  border: 1px solid;
+  transform: rotate(180deg);
+}
+
+.krishi-bazzar .img {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 323px;
+  left: 1482px;
+}
+
+.krishi-bazzar .kisan-khet-exchange {
+  position: absolute;
+  width: 285px;
+  height: 58px;
+  top: 10px;
+  left: 14px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 54px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .span {
+  color: #bed630;
+}
+
+.krishi-bazzar .text-wrapper-2 {
+  color: #00a550;
+}
+
+.krishi-bazzar .header-header {
+  position: absolute;
+  width: 787px;
+  height: 80px;
+  top: 0;
+  left: 330px;
+}
+/*menu bar*/
+.krishi-bazzar .menu-bar {
+  background-color: #4CAF50;
+  padding: 3px;
+}
+
+.menu-bar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-bar li {
+  margin: 0;
+  padding: 0;
+}
+
+.menu-bar a {
+  color: #fff;
+  text-decoration: none;
+  top:5px;
+  padding: 2px;
+  display: block;
+}
+
+.menu-bar a:hover {
+  background-color: #4CAF50;
+}
+
+/*home button*/
+.home-button {
+  display: inline-block;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  top: -5px;
+  margin-top: 16px;
+  }
+
+
+.home-button i {
+  position: absolute;
+  margin-right: 5px;
+  top: 5px;
+}
+
+.home-button:hover {
+  background-color: #45a049;
+}
+
+/* for our products */
+.krishi-bazzar .dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    }
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      }
+
+      .dropdown-content a:hover {background-color: #f1f1f1}
+
+      .dropdown:hover .dropdown-content {
+        display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+          background-color: #3e8e41;
+          }
+
+/* for farm for rent*/
+
+.krishi-bazzar .dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    }
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      }
+
+      .dropdown-content a:hover {background-color: #f1f1f1}
+
+      .dropdown:hover .dropdown-content {
+        display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+          background-color: #3e8e41;
+          }
+
+          /*farms for sale*/
+.krishi-bazzar .dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    }
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      }
+
+      .dropdown-content a:hover {background-color: #f1f1f1}
+
+      .dropdown:hover .dropdown-content {
+        display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+          background-color: #3e8e41;
+          }
+
+          .krishi-bazzar .overlap-3 {
+            position: absolute;
+            width: 133px;
+            height: 22px;
+            top: 29px;
+            left: 263px;
+          }
+
+  /*for hire a farmer*/
+  .krishi-bazzar .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      }
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        }
+  
+        .dropdown-content a:hover {background-color: #f1f1f1}
+  
+        .dropdown:hover .dropdown-content {
+          display: block;
+          }
+  
+          .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+            }
+            .krishi-bazzar .overlap-4 {
+              position: absolute;
+              width: 133px;
+              height: 22px;
+              top: 29px;
+              left: 263px;
+            }
+
+             /*for login and signup page*/
+             .login-signup-button {
+              display: inline-block;
+              
+              padding: 10px 20px;
+              background-color: #4CAF50;
+              color: white;
+              border: none;
+              border-radius: 5px;
+              font-size: 16px;
+              cursor: pointer;
+              position: relative;
+              overflow: hidden;
+              transition: background-color 0.3s ease;
+            }
+            
+            .login-text {
+              display: block;
+              font-weight: bold;
+            }
+            
+            .signup-text {
+              display: none;
+              font-weight: normal;
+              text-transform: uppercase;
+            }
+            
+            .login-signup-button:hover {
+              background-color: #45a049;
+            }
+            
+            .login-signup-button:hover .signup-text {
+              display: block;
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              background-color: #4CAF50;
+              color: white;
+              border-radius: 5px;
+              line-height: 2;
+              transition: all 0.3s ease;
+            }
+            
+            .login-signup-button:hover .login-text {
+              transition: all 0.3s ease;
+              transform: translateX(-100%);
+            }
+            .krishi-bazzar .overlap-5 {
+              position: absolute;
+              width: 133px;
+              height: 22px;
+              top: 29px;
+              left: 263px;
+            }
+           
+
+
+.krishi-bazzar .section-wrapper {
+  position: absolute;
+  width: 1465px;
+  height: 704px;
+  top: 858px;
+  left: 0;
+  background-image: url(./img/section-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .section-2 {
+  position: relative;
+  width: 1140px;
+  height: 556px;
+  top: -2px;
+  left: 163px;
+}
+
+.krishi-bazzar .div-elementor-widget {
+  position: absolute;
+  width: 661px;
+  height: 556px;
+  top: -11px;
+  left: 0;
+}
+
+.krishi-bazzar .section-3 {
+  position: absolute;
+  width: 661px;
+  height: 150px;
+  top: -10px;
+  left: -18px;
+}
+
+.krishi-bazzar .div-elementor {
+  position: absolute;
+  width: 322px;
+  height: 138px;
+  top: 0;
+  left: 0;
+}
+
+.krishi-bazzar .div-elementor-image {
+  position: relative;
+  width: 121px;
+  height: 138px;
+  left: 101px;
+  background-color: #00a550;
+  border-radius: 50px 0px 50px 0px;
+}
+
+.krishi-bazzar .figure-group {
+  position: absolute;
+  width: 44px;
+  height: 43px;
+  top: 16px;
+  left: 38px;
+  background-image: url(./img/figure-group-1000005056-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .heading-2 {
+  width: 42px;
+  height: 26px;
+  top: 66px;
+  left: 39px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.krishi-bazzar .seeds-we-provide {
+  position: absolute;
+  width: 60px;
+  height: 21px;
+  top: 100px;
+  left: 22px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+
+.krishi-bazzar .div-elementor-image-wrapper {
+  position: absolute;
+  width: 336px;
+  height: 150px;
+  top: -12px;
+  left: 322px;
+}
+
+.krishi-bazzar .div-elementor-image-2 {
+  top: -12px;
+  left: 87px;
+  position: relative;
+  width: 121px;
+  height: 138px;
+  background-color: #00a550;
+  border-radius: 50px 0px 50px 0px;
+}
+
+.krishi-bazzar .figure-vector-png {
+  width: 45px;
+  height: 42px;
+  left: 38px;
+  background-image: url(./img/figure-vector-11-png.png);
+  position: absolute;
+  top: 16px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .heading-3 {
+  width: 54px;
+  height: 34px;
+  top: 65px;
+  left: 34px;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.krishi-bazzar .farms-available {
+  position: absolute;
+  width: 64px;
+  height: 27px;
+  top: 99px;
+  left: 21px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+
+.krishi-bazzar .section-4 {
+  position: absolute;
+  width: 661px;
+  height: 162px;
+  top: 288px;
+  left: 0;
+}
+
+.krishi-bazzar .div-wrapper {
+  position: absolute;
+  width: 322px;
+  height: 162px;
+  top: 0;
+  left: 0;
+}
+
+.krishi-bazzar .div-elementor-image-3 {
+  top: 24px;
+  left: 2px;
+  position: relative;
+  width: 121px;
+  height: 138px;
+  background-color: #00a550;
+  border-radius: 50px 0px 50px 0px;
+}
+
+.krishi-bazzar .figure-vector-png-2 {
+  width: 43px;
+  height: 43px;
+  left: 39px;
+  background-image: url(./img/figure-vector-12-png.png);
+  position: absolute;
+  top: 16px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .heading-4 {
+  width: 46px;
+  height: 26px;
+  top: 66px;
+  left: 38px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.krishi-bazzar .customer-s {
+  position: absolute;
+  width: 70px;
+  height: 14px;
+  top: 100px;
+  left: 26px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .div-elementor-widget-2 {
+  position: absolute;
+  width: 336px;
+  height: 162px;
+  top: 0;
+  left: 322px;
+}
+
+.krishi-bazzar .div-elementor-image-4 {
+  top: 22px;
+  left: 165px;
+  position: relative;
+  width: 121px;
+  height: 138px;
+  background-color: #00a550;
+  border-radius: 50px 0px 50px 0px;
+}
+
+.krishi-bazzar .figure-vector-png-3 {
+  width: 43px;
+  height: 43px;
+  left: 39px;
+  background-image: url(./img/figure-vector-13-png.png);
+  position: absolute;
+  top: 16px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .heading-5 {
+  width: 52px;
+  height: 24px;
+  top: 68px;
+  left: 34px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.krishi-bazzar .farmers-available {
+  position: absolute;
+  width: 85px;
+  height: 28px;
+  top: 99px;
+  left: 18px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+
+.krishi-bazzar .asset-png-wrapper {
+  position: absolute;
+  width: 474px;
+  height: 544px;
+  top: 0;
+  left: 661px;
+}
+
+.krishi-bazzar .asset-png {
+  position: relative;
+  width: 243px;
+  height: 394px;
+  top: 150px;
+  left: 116px;
+  background-image: url(./img/asset-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .overlap-3 {
+  position: absolute;
+  width: 1486px;
+  height: 1617px;
+  top: 1583px;
+  left: -36px;
+}
+
+.krishi-bazzar .section-5 {
+  position: absolute;
+  width: 1465px;
+  height: 828px;
+  top: 0;
+  left: 50px;
+  background-image: url(./img/section-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .overlap-4 {
+  position: absolute;
+  width: 840px;
+  height: 352px;
+  top: 260px;
+  left: 173px;
+}
+
+.krishi-bazzar .image {
+  width: 270px;
+  top: 1px;
+  left: 290px;
+  position: absolute;
+  height: 351px;
+  object-fit: cover;
+}
+
+.krishi-bazzar .overlap-group-wrapper {
+  position: absolute;
+  width: 280px;
+  height: 351px;
+  top: 1px;
+  left: 0;
+  overflow: hidden;
+}
+
+.krishi-bazzar .overlap-group-2 {
+  position: relative;
+  width: 274px;
+  height: 351px;
+  left: 6px;
+}
+
+.krishi-bazzar .image-png {
+  position: absolute;
+  width: 265px;
+  height: 351px;
+  top: 0;
+  left: 9px;
+  background-image: url(./img/image-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .div-crops-info {
+  position: absolute;
+  width: 269px;
+  height: 246px;
+  top: 105px;
+  left: 2px;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 67.66%);
+}
+
+.krishi-bazzar .heading-link {
+  width: 192px;
+  height: 26px;
+  top: 114px;
+  left: 30px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.krishi-bazzar .link-2 {
+  position: absolute;
+  width: 123px;
+  height: 39px;
+  top: 172px;
+  left: 73px;
+  background-color: #f7931d;
+  border-radius: 25px 0px 25px 0px;
+}
+
+.krishi-bazzar .text-wrapper-3 {
+  position: absolute;
+  width: 83px;
+  height: 24px;
+  top: 7px;
+  left: 20px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .div-crops-info-wrapper {
+  position: absolute;
+  width: 269px;
+  height: 351px;
+  top: 0;
+  left: 273px;
+}
+
+.krishi-bazzar .div-crops-info-2 {
+  position: relative;
+  width: 269px;
+  left: 16px;
+  height: 246px;
+  top: 105px;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 67.66%);
+}
+
+.krishi-bazzar .heading-link-grape {
+  width: 81px;
+  height: 34px;
+  top: 110px;
+  left: 99px;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.krishi-bazzar .link-3 {
+  position: absolute;
+  width: 123px;
+  height: 39px;
+  top: 172px;
+  left: 79px;
+  background-color: #f7931d;
+  border-radius: 25px 0px 25px 0px;
+}
+
+.krishi-bazzar .overlap-wrapper {
+  position: absolute;
+  width: 280px;
+  height: 351px;
+  top: 1px;
+  left: 560px;
+}
+
+.krishi-bazzar .overlap-5 {
+  position: relative;
+  width: 275px;
+  height: 351px;
+  left: 5px;
+  background-image: url(./img/image-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .div-crops-info-3 {
+  position: relative;
+  width: 269px;
+  height: 240px;
+  top: 75px;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 67.66%);
+}
+
+.krishi-bazzar .heading-link-2 {
+  width: 139px;
+  height: 39px;
+  top: 107px;
+  left: 65px;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.krishi-bazzar .section-crops {
+  position: absolute;
+  width: 409px;
+  height: 54px;
+  top: 18px;
+  left: 522px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 54px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .text-wrapper-4 {
+  color: #00a550;
+  letter-spacing: 0.46px;
+}
+
+.krishi-bazzar .text-wrapper-5 {
+  color: #bed630;
+  letter-spacing: 0.46px;
+}
+
+.krishi-bazzar .section-aries-offers {
+  position: absolute;
+  width: 477px;
+  height: 48px;
+  top: 107px;
+  left: 488px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #272e35;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.krishi-bazzar .section-6 {
+  position: absolute;
+  width: 280px;
+  height: 351px;
+  top: 260px;
+  left: 1013px;
+}
+
+.krishi-bazzar .overlap-6 {
+  position: relative;
+  width: 269px;
+  height: 351px;
+  left: 5px;
+}
+
+.krishi-bazzar .image-2 {
+  width: 265px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 351px;
+  object-fit: cover;
+}
+
+.krishi-bazzar .div-crops-info-4 {
+  position: absolute;
+  width: 266px;
+  left: 1px;
+  height: 246px;
+  top: 105px;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 67.66%);
+}
+
+.krishi-bazzar .heading-link-3 {
+  width: 100px;
+  height: 26px;
+  top: 122px;
+  left: 60px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.krishi-bazzar .section-link {
+  position: absolute;
+  width: 148px;
+  height: 55px;
+  top: 678px;
+  left: 659px;
+  background-color: #f7931d;
+  border-radius: 35px 0px 35px 0px;
+}
+
+.krishi-bazzar .know-more {
+  position: absolute;
+  width: 88px;
+  height: 25px;
+  top: 14px;
+  left: 30px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .section-7 {
+  position: absolute;
+  width: 1465px;
+  height: 789px;
+  top: 828px;
+  left: 65px;
+  background-image: url(./img/section-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.krishi-bazzar .section-heading {
+  position: absolute;
+  width: 291px;
+  height: 56px;
+  top: 59px;
+  left: 587px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #00a550;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 56px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .section-heading-2 {
+  position: absolute;
+  width: 489px;
+  height: 50px;
+  top: 135px;
+  left: 488px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #bed630;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .section-8 {
+  position: absolute;
+  width: 122px;
+  height: 6px;
+  top: 642px;
+  left: 594px;
+  background-color: #fe8d4d;
+}
+
+.krishi-bazzar .section-9 {
+  position: absolute;
+  width: 56px;
+  height: 6px;
+  top: 642px;
+  left: 730px;
+  background-color: #dadada;
+  opacity: 0.5;
+}
+
+.krishi-bazzar .section-10 {
+  position: absolute;
+  width: 56px;
+  height: 6px;
+  top: 642px;
+  left: 800px;
+  background-color: #dadada;
+  opacity: 0.5;
+}
+
+.krishi-bazzar .section-11 {
+  position: absolute;
+  width: 56px;
+  height: 6px;
+  top: 642px;
+  left: 870px;
+  background-color: #dadada;
+  opacity: 0.5;
+}
+
+.krishi-bazzar .overlap-7 {
+  position: absolute;
+  width: 1226px;
+  height: 379px;
+  top: 236px;
+  left: 132px;
+}
+
+.krishi-bazzar .section-12 {
+  position: absolute;
+  width: 1066px;
+  height: 379px;
+  top: 0;
+  left: 81px;
+  overflow: hidden;
+}
+
+.krishi-bazzar .div-owl-item {
+  position: absolute;
+  width: 373px;
+  height: 379px;
+  top: 0;
+  left: 0;
+}
+
+.krishi-bazzar .div-cat-content {
+  position: relative;
+  width: 351px;
+  height: 379px;
+  left: 1px;
+  background-color: #ffffff;
+  border-radius: 100px 0px 100px 0px;
+}
+
+.krishi-bazzar .heading-crop {
+  position: absolute;
+  width: 133px;
+  height: 24px;
+  top: 59px;
+  left: 40px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 700;
+  color: #00a550;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .browse-our-crop {
+  position: absolute;
+  width: 261px;
+  height: 87px;
+  top: 108px;
+  left: 40px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #272e35;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.krishi-bazzar .read-more-wrapper {
+  position: absolute;
+  width: 109px;
+  height: 34px;
+  top: 220px;
+  left: 40px;
+  background-color: #f7931d;
+  border-radius: 20px 0px 20px 0px;
+}
+
+.krishi-bazzar .read-more {
+  position: absolute;
+  width: 70px;
+  height: 25px;
+  top: 4px;
+  left: 20px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .div-cat-content-wrapper {
+  left: 373px;
+  position: absolute;
+  width: 373px;
+  height: 379px;
+  top: 0;
+}
+
+.krishi-bazzar .heading-high {
+  position: absolute;
+  width: 197px;
+  height: 24px;
+  top: 59px;
+  left: 40px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 700;
+  color: #00a550;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .high-density-farming {
+  position: absolute;
+  width: 263px;
+  height: 127px;
+  top: 108px;
+  left: 40px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #272e35;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.krishi-bazzar .link-4 {
+  position: absolute;
+  width: 109px;
+  height: 34px;
+  top: 260px;
+  left: 40px;
+  background-color: #f7931d;
+  border-radius: 20px 0px 20px 0px;
+}
+
+.krishi-bazzar .div-owl-item-2 {
+  left: 746px;
+  position: absolute;
+  width: 373px;
+  height: 379px;
+  top: 0;
+}
+
+.krishi-bazzar .heading-hydromin {
+  position: absolute;
+  width: 165px;
+  height: 24px;
+  top: 59px;
+  left: 40px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 700;
+  color: #00a550;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.agromin-range{
+  position: absolute;
+  width: 263px;
+  height: 127px;
+  top: 108px;
+  left: 40px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #272e35;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.krishi-bazzar .link-5 {
+  position: absolute;
+  width: 109px;
+  height: 34px;
+  top: 340px;
+  left: 40px;
+  background-color: #f7931d;
+  border-radius: 20px 0px 20px 0px;
+}
+
+.krishi-bazzar .section-13 {
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  top: 190px;
+  left: 0;
+}
+
+.krishi-bazzar .section-14 {
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  top: 190px;
+  left: 1118px;
+}
+
+.krishi-bazzar .overlap-8 {
+  position: absolute;
+  width: 1196px;
+  height: 571px;
+  top: 3340px;
+  left: 134px;
+}
+
+.krishi-bazzar .section-section {
+  position: absolute;
+  width: 1140px;
+  height: 548px;
+  top: 23px;
+  left: 56px;
+}
+
+.krishi-bazzar .div-elementor-widget-3 {
+  position: relative;
+  width: 570px;
+  height: 548px;
+  top: 20px;
+  left: -60px;
+}
+
+.krishi-bazzar .overlap-group-3 {
+  position: relative;
+  width: 566px;
+  height: 315px;
+  top: 126px;
+  left: 4px;
+}
+
+.krishi-bazzar .div-elementor-2 {
+  position: absolute;
+  width: 1300px;
+  height: 315px;
+  top: 0;
+  left: 6px;
+}
+
+.krishi-bazzar .text-wrapper-6 {
+  position: absolute;
+  width: 546px;
+  height: 182px;
+  top: -1px;
+  left: 0;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #272e35;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.krishi-bazzar .krishikhetexchange {
+  position: absolute;
+  width: 539px;
+  height: 104px;
+  top: 163px;
+  left: 0;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #272e35;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.krishi-bazzar .div-elementor-widget-4 {
+  width: 550px;
+  height: 61px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.krishi-bazzar .about {
+  position: absolute;
+  width: 149px;
+  height: 54px;
+  top: -2px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: 54px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .text-wrapper-7 {
+  color: #339966;
+}
+
+.krishi-bazzar .text-wrapper-8 {
+  color: #272e35;
+}
+
+.krishi-bazzar .kisan-khet-exchange-2 {
+  position: absolute;
+  width: 283px;
+  height: 44px;
+  top: 3px;
+  left: 165px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 54px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .div-elementor-button {
+  position: absolute;
+  width: 496px;
+  height: 55px;
+  top: 4074px;
+  left: 164px;
+}
+
+.krishi-bazzar .know-more-wrapper {
+  position: relative;
+  width: 148px;
+  height: 55px;
+  background-color: #f7931d;
+  border-radius: 35px 0px 35px 0px;
+}
+
+.krishi-bazzar .section-section-2 {
+  left: 376px;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 4220px;
+}
+
+.krishi-bazzar .section-section-3 {
+  left: 1057px;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 4220px;
+}
+
+.krishi-bazzar .footer-section {
+  position: absolute;
+  width: 1466px;
+  height: 870px;
+  top: 4847px;
+  left: -17px;
+}
+
+.krishi-bazzar .overlap-9 {
+  position: absolute;
+  width: 1178px;
+  height: 384px;
+  top: 85px;
+  left: 144px;
+}
+
+.krishi-bazzar .section-15 {
+  position: absolute;
+  width: 1140px;
+  height: 68px;
+  top: 316px;
+  left: 0;
+}
+
+.krishi-bazzar .div-elementor-widget-5 {
+  position: absolute;
+  width: 725px;
+  height: 68px;
+  top: 0;
+  left: 0;
+  border-top-width: 0.8px;
+  border-top-style: solid;
+  border-bottom-width: 0.8px;
+  border-bottom-style: solid;
+  border-color: #cccccc;
+}
+
+.krishi-bazzar .text-wrapper-9 {
+  position: absolute;
+  width: 678px;
+  height: 31px;
+  top: 17px;
+  left: 0;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 31px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .div-elementor-widget-6 {
+  position: absolute;
+  width: 415px;
+  height: 68px;
+  top: 0;
+  left: 725px;
+  border-top-width: 0.8px;
+  border-top-style: solid;
+  border-bottom-width: 0.8px;
+  border-bottom-style: solid;
+  border-color: #cccccc;
+}
+
+.krishi-bazzar .symbol-wrapper {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 16px;
+  left: 256px;
+  background-color: #ffffff;
+  border-radius: 3.6px;
+}
+
+.krishi-bazzar .symbol {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 8px;
+  left: 9px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  font-weight: 400;
+  color: #00a550;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .link-6 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 16px;
+  left: 297px;
+  background-color: #ffffff;
+  border-radius: 3.6px;
+}
+
+.krishi-bazzar .symbol-2 {
+  width: 16px;
+  left: 10px;
+  position: absolute;
+  height: 18px;
+  top: 8px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  font-weight: 400;
+  color: #00a550;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .link-7 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 16px;
+  left: 338px;
+  background-color: #ffffff;
+  border-radius: 3.6px;
+}
+
+.krishi-bazzar .link-8 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 16px;
+  left: 379px;
+  background-color: #ffffff;
+  border-radius: 3.6px;
+}
+
+.krishi-bazzar .symbol-3 {
+  width: 21px;
+  left: 8px;
+  position: absolute;
+  height: 18px;
+  top: 8px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  font-weight: 400;
+  color: #00a550;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .section-16 {
+  position: absolute;
+  width: 1140px;
+  height: 350px;
+  top: 0;
+  left: 38px;
+}
+
+.krishi-bazzar .overlap-group-4 {
+  position: absolute;
+  width: 285px;
+  height: 350px;
+  top: 0;
+  left: 285px;
+}
+
+.krishi-bazzar .div-elementor-widget-7 {
+  width: 285px;
+  height: 350px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.krishi-bazzar .heading-6 {
+  position: absolute;
+  width: 265px;
+  height: 24px;
+  top: 10px;
+  left: 10px;
+}
+
+.krishi-bazzar .text-wrapper-10 {
+  position: absolute;
+  width: 115px;
+  height: 24px;
+  top: -1px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 500;
+  color: #00a550;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .link-micronutrients-wrapper {
+  position: absolute;
+  width: 265px;
+  height: 238px;
+  top: 48px;
+  left: 10px;
+}
+
+.krishi-bazzar .link-micronutrients {
+  position: absolute;
+  width: 251px;
+  height: 224px;
+  top: -7px;
+  left: 0;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.krishi-bazzar .div-elementor-3 {
+  position: relative;
+  width: 265px;
+  height: 238px;
+  top: 48px;
+  left: 10px;
+}
+
+.krishi-bazzar .div-elementor-widget-8 {
+  position: absolute;
+  width: 285px;
+  height: 350px;
+  top: 0;
+  left: 570px;
+}
+
+.krishi-bazzar .text-wrapper-11 {
+  position: absolute;
+  width: 80px;
+  height: 24px;
+  top: -1px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 500;
+  color: #00a550;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .link-company-wrapper {
+  position: absolute;
+  width: 265px;
+  height: 224px;
+  top: 48px;
+  left: 10px;
+}
+
+.krishi-bazzar .link-company {
+  position: absolute;
+  width: 149px;
+  height: 224px;
+  top: -7px;
+  left: 0;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.krishi-bazzar .div-elementor-widget-9 {
+  position: absolute;
+  width: 285px;
+  height: 350px;
+  top: 0;
+  left: 855px;
+}
+
+.krishi-bazzar .text-wrapper-12 {
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  top: -1px;
+  left: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 500;
+  color: #00a550;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.krishi-bazzar .link-home-wrapper {
+  position: absolute;
+  width: 265px;
+  height: 270px;
+  top: 48px;
+  left: 10px;
+}
+
+.krishi-bazzar .link-home {
+  position: absolute;
+  width: 214px;
+  height: 256px;
+  top: -7px;
+  left: 0;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.krishi-bazzar .div-elementor-widget-10 {
+  position: absolute;
+  width: 285px;
+  height: 350px;
+  top: 0;
+  left: -7px;
+}
+
+.krishi-bazzar .div-elementor-4 {
+  position: absolute;
+  width: 265px;
+  height: 238px;
+  top: 47px;
+  left: 0;
+}
+/*subcription area */
+
+.krishi-bazzar 
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1066px;
+  height: 330px;
+  top: -400px;
+  left: 250px;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 50px;
+}
+
+.subscription-form {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 518px;
+  height: 100px;
+  top: 200px;
+  left: 280px;
+  gap: 10px;
+}
+
+.subscription-form input[type="email"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.subscription-form input[type="email"]:focus {
+  outline: none;
+  box-shadow: 0 0 3px 1px rgba(0, 127, 255, 0.5);
+}
+
+.subscription-form button {
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscription-form button:hover {
+  background-color: #0056b3;
+}
+
+.subscription-form button:disabled {
+  background-color: #c0c0c0;
+  cursor: not-allowed;
+}

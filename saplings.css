@@ -1,0 +1,352 @@
+.body {
+  background-image:url(./img/banner-3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+   .krishi-bazzar .kisan-khet-exchange {
+    position: absolute;
+    width: 285px;
+    height: 58px;
+    top: 5px;
+    left: 14px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 54px;
+    white-space: nowrap;
+  }
+  
+  .krishi-bazzar .span {
+    color: #bed630;
+  }
+  
+  .krishi-bazzar .text-wrapper-2 {
+    color: #00a550;
+  }
+  
+  .krishi-bazzar .header-header {
+    position: absolute;
+    width: 787px;
+    height: 80px;
+    top: 0;
+    left: 330px;
+  }
+  /*menu bar*/
+  .krishi-bazzar .menu-bar {
+    background-color: #4CAF50;
+    padding: 3px;
+  }
+  
+  .menu-bar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu-bar li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu-bar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 2px;
+    display: block;
+  }
+  
+  .menu-bar a:hover {
+    background-color: #4CAF50;
+  }
+   
+  /*home button*/
+.home-button {
+  display: inline-block;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  top: -5px;
+  margin-top: 16px;
+  }
+
+
+.home-button i {
+  margin-right: 5px;
+}
+
+.home-button:hover {
+  background-color: #45a049;
+}
+
+  /* for our products */
+  .krishi-bazzar .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      }
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        }
+  
+        .dropdown-content a:hover {background-color: #f1f1f1}
+  
+        .dropdown:hover .dropdown-content {
+          display: block;
+          }
+  
+          .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+            }
+  
+  /* for farm for rent*/
+  
+  .krishi-bazzar .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      }
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        }
+  
+        .dropdown-content a:hover {background-color: #f1f1f1}
+  
+        .dropdown:hover .dropdown-content {
+          display: block;
+          }
+  
+          .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+            }
+  
+            /*farms for sale*/
+  .krishi-bazzar .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      }
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        }
+  
+        .dropdown-content a:hover {background-color: #f1f1f1}
+  
+        .dropdown:hover .dropdown-content {
+          display: block;
+          }
+  
+          .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+            }
+  
+            .krishi-bazzar .overlap-3 {
+              position: absolute;
+              width: 133px;
+              height: 22px;
+              top: 29px;
+              left: 263px;
+            }
+  
+    /*for hire a farmer*/
+    .krishi-bazzar .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    .dropbtn {
+      background-color: #4CAF50;
+      color: white;
+      padding: 16px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+      }
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        }
+        .dropdown-content a {
+          color: black;
+          padding: 12px 16px;
+          text-decoration: none;
+          display: block;
+          }
+    
+          .dropdown-content a:hover {background-color: #f1f1f1}
+    
+          .dropdown:hover .dropdown-content {
+            display: block;
+            }
+    
+            .dropdown:hover .dropbtn {
+              background-color: #3e8e41;
+              }
+              .krishi-bazzar .overlap-4 {
+                position: absolute;
+                width: 133px;
+                height: 22px;
+                top: 29px;
+                left: 263px;
+              }
+  
+               /*for login and signup page*/
+               .login-signup-button {
+                display: inline-block;
+                
+                padding: 10px 20px;
+                background-color: #4CAF50;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                font-size: 16px;
+                cursor: pointer;
+                position: relative;
+                overflow: hidden;
+                transition: background-color 0.3s ease;
+              }
+              
+              .login-text {
+                display: block;
+                font-weight: bold;
+              }
+              
+              .signup-text {
+                display: none;
+                font-weight: normal;
+                text-transform: uppercase;
+              }
+              
+              .login-signup-button:hover {
+                background-color: #45a049;
+              }
+              
+              .login-signup-button:hover .signup-text {
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: #4CAF50;
+                color: white;
+                border-radius: 5px;
+                line-height: 2;
+                transition: all 0.3s ease;
+              }
+              
+              .login-signup-button:hover .login-text {
+                transition: all 0.3s ease;
+                transform: translateX(-100%);
+              }
+              .krishi-bazzar .overlap-5 {
+                position: absolute;
+                width: 133px;
+                height: 22px;
+                top: 29px;
+                left: 263px;
+              }
+             
+  
+  /* css for our products range*/
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    color: #ecca0b;
+    background-color:white;
+   
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 80px;
+    color: #da8907;
+    background-color: white;
+  }
+  
+  .product-category {
+    margin-bottom: 100px;
+    color: #000000;
+    background-color: white;
+  }
+  
+  .product-category h2 {
+    text-decoration: underline;
+    margin-bottom: 10px;
+    color: #45a049;
+    background-color: white;
+  }
+  
+  
